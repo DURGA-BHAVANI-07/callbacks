@@ -49,7 +49,5 @@ function addTocart(){
 }
     if (!itemFound) {
       alert(`we dont have ${input} item in our basket`);
-    } else{
-    alert("please select one item and add it to cart")
-    }
+    } 
 }
